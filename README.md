@@ -1,2 +1,2 @@
 # delta-Demo
-Git and Github explore
+Git and Github explore.
